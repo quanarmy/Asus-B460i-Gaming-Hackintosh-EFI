@@ -8,3 +8,5 @@
 
 ## OS Version
 - macOS Big Sur 11.3.1 (20E241)
+
+![ScreenShot](/ScreenShot.png)
